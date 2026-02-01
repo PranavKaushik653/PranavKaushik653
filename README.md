@@ -65,16 +65,9 @@ I enjoy designing clean REST APIs, working with Spring Boot ecosystems, and owni
 
 ---
 
-## 📊 GitHub Stats
-
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavKaushik653&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKaushik653&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/pranav-kaushik  
+- **LinkedIn:** [Pranav Kaushik](https://www.linkedin.com/in/pranav-kaushik-137a10266/) 
 - **Email:** pranavkaushik653@gmail.com  
 
 ---
